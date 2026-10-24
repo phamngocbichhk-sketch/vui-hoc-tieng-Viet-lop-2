@@ -1,0 +1,6 @@
+{
+  "name": "Vui Đọc Tiếng Việt 2 - Luyện Đọc SGK Chuẩn Giọng Cô Giáo Hà Nội",
+  "description": "Ứng dụng luyện đọc Tiếng Việt lớp 2 bám sát SGK Kết nối tri thức với cuộc sống. Luyện đọc từng câu, karaoke giọng cô giáo Hà Nội chuẩn, luyện phát âm từ khó, ghi âm chấm điểm và tìm hiểu bài học.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
